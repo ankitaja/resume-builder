@@ -1,6 +1,5 @@
 {
   "name": "resume-builder",
-  "homepage": "https://github.com/ankitaja/resume-builder.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
